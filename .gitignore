@@ -1,0 +1,25 @@
+# Build directories
+build/
+bin/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
